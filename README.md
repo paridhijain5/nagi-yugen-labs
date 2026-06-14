@@ -16,6 +16,3 @@ npm install
 npm run dev
 ```
 
-## License
-
-Add a license as needed.
